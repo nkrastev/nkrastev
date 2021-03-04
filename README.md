@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![alt text](https://miro.medium.com/max/2382/1*XOMTPWTpDLypkp079p9XXg.png)
 
 <!--
 **nkrastev/nkrastev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
