@@ -1,4 +1,4 @@
-### ![alt text](https://images.squarespace-cdn.com/content/v1/5ee6ced9ad12c31b3a986093/1594700989854-B74R9USLEHL600043T1P/ke17ZwdGBToddI8pDm48kCaKDGg4Sa4LbIzz4nMpSCUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2syx4ap2EKRbZVnCpMxIZPuvBv3q5JcxJDS19BkQq7lKDb4f_puL7e6MIR5cGtmD/1_7T_MQ8cFP1TgKBkf8dDWeg.jpeg)
+### ![alt text](https://github.com/nkrastev/Charterio/blob/main/Web/Charterio.Web/wwwroot/assets/img/mainGit.jpg)
 
 <!--
 **nkrastev/nkrastev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
