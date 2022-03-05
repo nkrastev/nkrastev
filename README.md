@@ -1,4 +1,4 @@
-### ![alt text](https://github.com/nkrastev/Charterio/blob/main/Web/Charterio.Web/wwwroot/assets/img/mainGit.jpg)
+### ![alt text](https://res.cloudinary.com/charterio/image/upload/v1646496550/assets/main_skfmky.jpg)
 
 <!--
 **nkrastev/nkrastev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
